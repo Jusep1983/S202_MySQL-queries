@@ -6,7 +6,7 @@ Este repositorio contiene una colección de consultas SQL sobre dos bases de dat
 ## 🔽 Enunciados:
  <details>
   <summary>    
-  Base de datos Tienda 
+   ▸Base de datos Tienda◂
     
   (clica en el desplegable para ver el detalle completo de consultas) 
     
@@ -31,8 +31,8 @@ Este repositorio contiene una colección de consultas SQL sobre dos bases de dat
     15. Lista los nombres de los productos ordenados, primero por nombre de manera ascendente y luego por precio de manera descendente.
     16. Retorna una lista con las 5 primeras filas de la tabla fabricante.
     17. Retorna una lista con 2 filas a partir de la cuarta fila de la tabla fabricante. La cuarta fila también debe incluirse en la respuesta.
-    18. Lista el nombre y el precio del producto más barat. (Usa solamente las cláusulas ORDER BY y LIMIT). NOTA: No puedes usar MIN(precio), necesitarías GROUP BY.
-    19. Lista el nombre y el precio del producto más caro. (Usa solamente las cláusules ORDER BY y LIMIT). NOTA: No puedes usar MAX(precio), necesitarías GROUP BY.
+    18. Lista el nombre y el precio del producto más barato. (Usa solamente las cláusulas ORDER BY y LIMIT). NOTA: No puedes usar MIN(precio), necesitarías GROUP BY.
+    19. Lista el nombre y el precio del producto más caro. (Usa solamente las cláusulas ORDER BY y LIMIT). NOTA: No puedes usar MAX(precio), necesitarías GROUP BY.
     20. Lista el nombre de todos los productos del fabricante cuyo código de fabricante es igual a 2.
     21. Retorna una lista con el nombre del producto, precio y nombre de fabricante de todos los productos de la base de datos.
     22. Retorna una lista con el nombre del producto, precio y nombre de fabricante de todos los productos de la base de datos. Ordena el resultado por el nombre del fabricante, en orden alfabético.
@@ -59,8 +59,8 @@ Este repositorio contiene una colección de consultas SQL sobre dos bases de dat
   </details>
  <details>
   <summary>    
-  Base de datos Universidad:  
-    
+   ▸Base de datos Universidad◂
+
   (clica en el desplegable para ver el detalle completo de consultas) 
     
   - Consultas básicas (1-9): alumnos, profesores, asignaturas, grados y departamentos.
@@ -128,7 +128,9 @@ El proyecto ha sido desarrollado utilizando:
 
 Clona este repositorio:
 
-- git clone:  https://github.com/Jusep1983/S202_MySQL-queries.git
+- git clone:
+
+      https://github.com/Jusep1983/S202_MySQL-queries.git
 
 - Abre tu cliente SQL favorito (por ejemplo, Workbench).
 
@@ -138,7 +140,7 @@ Clona este repositorio:
 
 ## ▶️ Ejecución
 
-Simplemente abre las sentencias .sql y ejecútelas de forma secuencial o individual. Puedes modificar las queries para comprobar tus propios casos.
+Simplemente abre las sentencias .sql y ejecútelas.
 
 ## 🌐 Despliegue
 
