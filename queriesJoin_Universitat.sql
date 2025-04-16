@@ -1,3 +1,4 @@
+USE universidad;
 -- Consultes amb LEFT JOIN i RIGHT JOIN:
 -- He realitzat totes les consultes amb amb LEFT JOIN i RIGHT JOIN per a que mostrin el mateix resultat
 -- 1. Retorna un llistat amb els noms de tots els professors/es i els departaments que tenen vinculats, incloent els professors/es sense departament.

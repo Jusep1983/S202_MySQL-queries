@@ -1,3 +1,5 @@
+USE universidad;
+
 -- Consultes bàsiques:
 -- 1. Retorna un llistat amb el primer cognom, segon cognom i el nom de tots els/les alumnes, ordenat alfabèticament.
 SELECT apellido1, apellido2 , nombre FROM persona WHERE tipo='alumno' ORDER BY apellido1, apellido2 , nombre;

@@ -1,3 +1,5 @@
+USE universidad;
+
 -- Consultes resum:
 -- 1. Retorna el nombre total d'alumnes que hi ha.
 SELECT count(*) AS nombre_total_alumnes FROM persona WHERE tipo = 'alumno';
