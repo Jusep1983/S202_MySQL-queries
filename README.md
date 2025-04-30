@@ -134,7 +134,7 @@ Clona este repositorio:
 
 - Abre tu cliente SQL favorito (por ejemplo, Workbench).
 
-- Importa las bases de datos necesarias ("tienda" y "universidad").
+- Importa las bases de datos necesarias schema_tienda.sql y schema_universidad.sql. Ambas se alojan en este repositorio en la carpeta sample_databases.
 
 - Abre los ficheros de consultas del repositorio y ejecútalos.
 
